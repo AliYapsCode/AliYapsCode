@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Ali
 
-<!--
-**GitAli248/GitAli248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Self-taught. Under 20. Already outbuilding most.**
 
-Here are some ideas to get you started:
+- 🚀 Building full-stack apps that actually work
+- 💻 Next.js · TypeScript · Prisma · Whatever breaks next
+- 📍 Prayagraj
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I'm cooking
+
+| Project | Stack |
+|---------|-------|
+| [ChadApp](https://chadapp-cyan.vercel.app) — Real-time messaging app | Supabase · Vanilla JS |
+| [E-Commerce](https://aliiiiii-ecom.vercel.app) — Full-stack demo with payments | Next.js · TypeScript · Prisma · Razorpay |
+| [Portfolio](https://aliiiiii.vercel.app) — Terminal-styled personal site | HTML · CSS · Three.js |
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitAli248&show_icons=true&theme=radical)
+
+---
+
+*"Chaos engineer. Terminal dweller. I break things, then fix them, then ship them."*
