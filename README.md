@@ -13,7 +13,3 @@
 | [ChadApp](https://chadapp-cyan.vercel.app) — Real-time messaging app | Supabase / Vanilla JS |
 | [E-Commerce](https://aliiiiii-ecom.vercel.app) — Full-stack demo with payments | Next.js / TypeScript / Prisma / Razorpay |
 | [Portfolio](https://aliiiiii.vercel.app) — Terminal-styled personal site | HTML / CSS / Three.js |
-
----
-
-*"Chaos engineer. Terminal dweller. I break things, then fix them, then ship them."*
