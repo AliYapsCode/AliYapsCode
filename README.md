@@ -28,8 +28,8 @@
 
 ### GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitAli248&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitAli248&layout=compact&theme=dark&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitAli248&theme=dark)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitAli248&theme=dark)
 
 ---
 
