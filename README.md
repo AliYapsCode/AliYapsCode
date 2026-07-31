@@ -28,8 +28,8 @@
 
 ### GitHub Stats
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitAli248&theme=dark)
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitAli248&theme=dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliYapsCode&theme=dark)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliYapsCode&theme=dark)
 
 ---
 
